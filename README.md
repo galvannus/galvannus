@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning Swift <a href="https://github.com/galvannus/quien-es-ese-pokemon" target="blank">Who is that Pokemon?</a>
 
-- 📝 I regularly write articles on [https://medium.com/tag/javascript](https://medium.com/tag/javascript)
-
 - 📄 Know about my experiences <a href="https://www.jorgemarcial.com/" target="blank">Personal webpage</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
