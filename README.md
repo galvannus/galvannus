@@ -25,7 +25,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/galvannus">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
   	<a style="margin-left: 10px;" target="_blank" href="https://www.jorgemarcial.com/">
-		<img src="https://img.icons8.com/?size=50&id=JSEF3DcvRUKE&format=png&color=000000"></a>
+		<img src="https://img.icons8.com/?size=25&id=JSEF3DcvRUKE&format=png&color=000000"></a>
 	 
   </div>
 
