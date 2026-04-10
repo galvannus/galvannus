@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in Farmacias medisim
 
-- 🌱 I’m currently Working on Ruby on Rails
+- 🌱 I’m currently Working on Ruby on Rails, java and node.js
 
 - 🤝 I’m available for freelancing.
 
